@@ -1,0 +1,2 @@
+# lato
+Lato web font
